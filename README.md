@@ -2,7 +2,8 @@
 ToDo Web App with authentication in Django
 Installation
 
-Before starting to use the code you must install required packages and modules.
+For starting to use the code you need to download required packages and modules.
+
 
 django (https://www.djangoproject.com/)
 Usage
