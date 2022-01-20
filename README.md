@@ -1,6 +1,7 @@
-# Iskakov Yeskednir
+# Iskakov Yeskendir
 ToDo Web App with authentication in Django
 Installation
+
 Before starting to use the code you must install required packages and modules.
 
 django (https://www.djangoproject.com/)
